@@ -6,7 +6,7 @@ I have developed a comprehensive GitHub portfolio to showcase my expertise in di
 
 Skills: SQL / Python / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
