@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hi there 👋, my name is Metra
 #### I am Digital Marketing Project Manager 
